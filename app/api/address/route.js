@@ -25,14 +25,17 @@ export async function POST(request) {
             message: "Address added successfully" 
         });
 
+
     } catch (error) {
         console.error(error);
         return NextResponse.json(
             { error: error.code || error.message },
-            { status: 400 }
+            { status: 400 },
         );
     }
 }
+
+
 
 
 
