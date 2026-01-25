@@ -45,7 +45,7 @@ description of the product
     const response = await openai.chat.completions.create({
         model: process.env.OPENAI_MODEL,
         messages,
-    });
+    })
 
     const raw = response.choices[0].message.content
 

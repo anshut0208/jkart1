@@ -123,7 +123,7 @@ export async function GET(request)
     } catch (error) {
         console.error(error);
 
-        // 👉 Error ko frontend ko send karna
+        //  Error ko frontend ko send karna
         return NextResponse.json(
             { error: error.code || error.message },
             { status: 400 }

@@ -55,7 +55,7 @@ export async function POST(request)
                     folder: "products",
                 });
 
-                // 👉 Optimized image URL generate kar rahe hain
+                //  Optimized image URL generate kar rahe hain
                 const url = imagekit.url({
                     path: response.filePath,
                     transformation: [

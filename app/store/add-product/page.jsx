@@ -23,6 +23,9 @@ export default function StoreAddProduct() {
     const { getToken, isLoaded, userId } = useAuth();
     console.log(" useAuth():", { isLoaded, userId });
 
+    const onChangeHandler = (e) => {
+        setProductInfo({ ...productInfo, [e.target.name]: e.target.value })
+    }
 
     const handleImageUpload = async (key, file) => {
         //  Update local image preview state
@@ -76,9 +79,7 @@ export default function StoreAddProduct() {
     };
 
 
-    const onChangeHandler = (e) => {
-        setProductInfo({ ...productInfo, [e.target.name]: e.target.value })
-    }
+    
 
     const onSubmitHandler = async (e) => {
         e.preventDefault();
