@@ -1,6 +1,6 @@
 <div align="center">
   <h1><img src="https://gocartshop.in/favicon.ico" width="20" height="20" alt="Jkart Favicon">
-   GoCart</h1>
+   Jkart</h1>
   <p>
     An open-source multi-vendor e-commerce platform built with Next.js and Tailwind CSS.
   </p>
