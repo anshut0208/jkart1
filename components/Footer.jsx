@@ -54,7 +54,7 @@ const Footer = () => {
                         <Link href="/" className="text-4xl font-semibold text-slate-700">
                             <span className="text-green-600">J</span>kart<span className="text-green-600 text-5xl leading-0">.</span>
                         </Link>
-                        <p className="max-w-[410px] mt-6 text-sm">Welcome to Jkart, your ultimate destination for the latest and smartest gadgets. From smartphones and smartwatches to essential accessories, we bring you the best in innovation — all in one place.</p>
+                        <p id="about" className="max-w-[410px] mt-6 text-sm">Welcome to Jkart, your ultimate destination for the latest and smartest gadgets. From smartphones and smartwatches to essential accessories, we bring you the best in innovation — all in one place.</p>
                         <div className="flex items-center gap-3 mt-5">
                             {socialIcons.map((item, i) => (
                                 <Link href={item.link} key={i} className="flex items-center justify-center w-10 h-10 bg-slate-100 hover:scale-105 hover:border border-slate-300 transition rounded-full">
@@ -80,7 +80,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <p className="py-4 text-sm text-slate-500">
-                    Copyright 2025 © JARP All Right Reserved.
+                    Copyright 2026 © JARP All Right Reserved.
                 </p>
             </div>
         </footer>

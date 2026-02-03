@@ -75,7 +75,7 @@ const Navbar = () => {
                                 <div>
                                     <UserButton>
                                     <UserButton.MenuItems>
-                                        <UserButton.Action labelIcon={<ShoppingCart size={16}/>} label="Cart" onClick={() => router.push('/Cart')}/>
+                                        <UserButton.Action labelIcon={<ShoppingCart size={16}/>} label="Cart" onClick={() => router.push('/cart')}/>
                                     </UserButton.MenuItems>
                                 </UserButton>
                                 </div>

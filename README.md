@@ -1,13 +1,13 @@
 <div align="center">
-  <h1><img src="https://gocartshop.in/favicon.ico" width="20" height="20" alt="Jkart Favicon">
-   GoCart</h1>
+  <h1><img src="https://jkart.vercel.app/favicon.ico" width="20" height="20" alt="Jkart Favicon">
+   Jkart</h1>
   <p>
     An open-source multi-vendor e-commerce platform built with Next.js and Tailwind CSS.
   </p>
   <p>
-    <a href="https://github.com/anshu/Jkart/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/GreatStackDev/Jkart?style=for-the-badge" alt="License"></a>
-    <a href="https://github.com/GreatStackDev/Jkart/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
-    <a href="https://github.com/ansu/Jkart/issues"><img src="https://img.shields.io/github/issues/GreatStackDev/Jkart?style=for-the-badge" alt="GitHub issues"></a>
+    <a href="https://github.com/anshu/Jkart/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/JARP/Jkart?style=for-the-badge" alt="License"></a>
+    <a href="https://github.com/JARP/Jkart/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
+    <a href="https://github.com/anshu/Jkart/issues"><img src="https://img.shields.io/github/issues/GreatStackDev/Jkart?style=for-the-badge" alt="GitHub issues"></a>
   </p>
 </div>
 
