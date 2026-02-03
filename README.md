@@ -1,5 +1,9 @@
 <div align="center">
+<<<<<<< HEAD
   <h1><img src="https://jkart.vercel.app/favicon.ico" width="20" height="20" alt="Jkart Favicon">
+=======
+  <h1><img src="https://gocartshop.in/favicon.ico" width="20" height="20" alt="Jkart Favicon">
+>>>>>>> 6593d83fd569267ba22fb9e4f1cc4bfa1d8bda71
    Jkart</h1>
   <p>
     An open-source multi-vendor e-commerce platform built with Next.js and Tailwind CSS.
